@@ -11,9 +11,6 @@
 
 ## Описание процесса тестирования
 
-В процессе тестирования использовались следующие артефакты:
-* тест-кейс https://docs.google.com/spreadsheets/d/1_X4pgK-Nohru9SKls-DgWkgXtqnvmVmVl_ZozDKMtMM/edit?usp=sharing
-
 В качестве тестовых данных использовались данные представленные на сайте https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md
 * Текущий баланис: 2 000 000 000. 
 * Зачисление: 500 000 000. 
